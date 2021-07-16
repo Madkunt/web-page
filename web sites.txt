@@ -1,0 +1,164 @@
+<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+
+							<!-- Header -->
+									<section class="posts">
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/justin.jpg" alt="" /></a>
+											<h3>The Fighter NFT</h3>
+											<p>Add liquidity to this pool  shows support to the Justin Wren &  Fight For The Forgoton. Pool fund will be used to generate yield for development of water security in 3rd world contries.</p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/farmer.jfif" alt="" /></a>
+											<h3>The Farmer</h3>
+											<p> Regenerative Agriculture farm and training centers, We are excited about facilitating the next generation of entrepreneurial young farmers. Our foremost responsibility is regenerating our landscape, ecosystem processes and soils through resilient, replicable, scalable and profitable farm enterprises. </p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/chef.jfif" alt="" /></a>
+											<h3>The Chef</h3>
+											<p>The Chef combines resources for across the land. building on his cook book of Wholesale connections to bring a great experience to his patrons</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/oracal.jfif" alt="" /></a>
+											<h3>The Oracle</h3>
+											<p>Bring your crosschain NFT's and stake on a oracle node. Oracle nodes validate real world events suck as prices on exchanges, insurance claims, collateral positions and other I.O.T applications such as weather events, device network interactions and more.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/merch.jpg" alt="" /></a>
+											<h3>Supporter Merch</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/stake.jfif" alt="" /></a>
+											<h3>Proof Of Stake NFT mining and Quest</h3>
+											<p>Pool your LPtokens in select LP pools to start farming NFT's for your collection. Each NFT has unique attributes caused by Gamma squeeze radiation</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/justin.jpg" alt="" /></a>
+											<h3>The Fighter NFT</h3>
+											<p>Add liquidity to this pool  shows support to the Justin Wren &  Fight For The Forgoton. Pool fund will be used to generate yield for development of water security in 3rd world contries.</p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/farmer.jfif" alt="" /></a>
+											<h3>The Farmer</h3>
+											<p> Regenerative Agriculture farm and training centers, We are excited about facilitating the next generation of entrepreneurial young farmers. Our foremost responsibility is regenerating our landscape, ecosystem processes and soils through resilient, replicable, scalable and profitable farm enterprises. </p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/chef.jfif" alt="" /></a>
+											<h3>The Chef</h3>
+											<p>The Chef combines resources for across the land. building on his cook book of Wholesale connections to bring a great experience to his patrons</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/oracal.jfif" alt="" /></a>
+											<h3>The Oracle</h3>
+											<p>Bring your crosschain NFT's and stake on a oracle node. Oracle nodes validate real world events suck as prices on exchanges, insurance claims, collateral positions and other I.O.T applications such as weather events, device network interactions and more.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/merch.jpg" alt="" /></a>
+											<h3>Supporter Merch</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/stake.jfif" alt="" /></a>
+											<h3>Proof Of Stake NFT mining and Quest</h3>
+											<p>Pool your LPtokens in select LP pools to start farming NFT's for your collection. Each NFT has unique attributes caused by Gamma squeeze radiation</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/justin.jpg" alt="" /></a>
+											<h3>The Fighter NFT</h3>
+											<p>Add liquidity to this pool  shows support to the Justin Wren &  Fight For The Forgoton. Pool fund will be used to generate yield for development of water security in 3rd world contries.</p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="https://opensea.io/" class="image"><img src="images/farmer.jfif" alt="" /></a>
+											<h3>The Farmer</h3>
+											<p> Regenerative Agriculture farm and training centers, We are excited about facilitating the next generation of entrepreneurial young farmers. Our foremost responsibility is regenerating our landscape, ecosystem processes and soils through resilient, replicable, scalable and profitable farm enterprises. </p>
+											<ul class="actions">
+												<li><a href="https://opensea.io/" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/chef.jfif" alt="" /></a>
+											<h3>The Chef</h3>
+											<p>The Chef combines resources for across the land. building on his cook book of Wholesale connections to bring a great experience to his patrons</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/oracal.jfif" alt="" /></a>
+											<h3>The Oracle</h3>
+											<p>Bring your crosschain NFT's and stake on a oracle node. Oracle nodes validate real world events suck as prices on exchanges, insurance claims, collateral positions and other I.O.T applications such as weather events, device network interactions and more.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/merch.jpg" alt="" /></a>
+											<h3>Supporter Merch</h3>
+											<p>Aenean ornare velit lacus, ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aliquam.</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+										<article>
+											<a href="#" class="image"><img src="images/stake.jfif" alt="" /></a>
+											<h3>Proof Of Stake NFT mining and Quest</h3>
+											<p>Pool your LPtokens in select LP pools to start farming NFT's for your collection. Each NFT has unique attributes caused by Gamma squeeze radiation</p>
+											<ul class="actions">
+												<li><a href="#" class="button">More</a></li>
+											</ul>
+										</article>
+									</section>
+									<section>
+										<header class="posts">
+										</header>
+										
+								</section>
+
+						</div>
+					</div>
